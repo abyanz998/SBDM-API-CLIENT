@@ -1,0 +1,2 @@
+rootProject.name='RetroClientAbyan'
+include ':app'
